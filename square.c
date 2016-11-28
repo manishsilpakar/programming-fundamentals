@@ -15,7 +15,7 @@ int main()
 float n, sqr=0,sqrt=0;
 printf("enter a number:\n");
 scanf("%f",&n);
-sqr=n*n;
+sqr=pow(n,2);
 sqrt=pow(n,0.5);
 printf("square of number is:%f\n",sqr);
 printf("square root of number is:%f",sqrt);
