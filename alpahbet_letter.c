@@ -1,6 +1,6 @@
 /*
 name:Manish Silpakar
-program:to check character assgined from user is vowel or not
+program:to check character assgined from user is alphabet or not.
 subject:programming fundamental
 roll no:18
 date:21/12/2016
