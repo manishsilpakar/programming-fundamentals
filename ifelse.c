@@ -1,7 +1,7 @@
 /*
 name:manish silpakar
 roll no:
-programme:
+programme:to check whether year is leap year or not using if else if
 subject:programming fundamental
 lab sheet:15
 date:08/01/2017
