@@ -1,6 +1,6 @@
 /*
 name:manish silpakar
-programme: to count number of digits in any number
+programme: to calculate product of digit of number
 subject:programming fundamental-
 roll no:
 lab sheet no:17
